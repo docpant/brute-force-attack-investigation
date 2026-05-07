@@ -36,3 +36,11 @@ Visitors who downloaded the file were redirected to a fake website containing ma
 
 ## Outcome
 The investigation confirmed that the website was compromised through a brute force attack and malicious JavaScript injection, resulting in malware distribution and browser redirection.
+
+## References
+
+- [Security Incident Report Template](docs/security-incident-report-template.pdf)
+
+- [Tcpdump Traffic Log](docs/tcpdump-traffic-log.pdf)
+
+- [Supporting Materials](docs/supporting-materials.pdf)
