@@ -1,7 +1,1 @@
-## References
-
-- [Security Incident Report Template](docs/security-incident-report-template.pdf)
-
-- [Tcpdump Traffic Log](docs/tcpdump-traffic-log.pdf)
-
-- [Supporting Materials](docs/supporting-materials.pdf)
+This folder contains supporting documents and reference materials used for the Brute Force Attack Investigation project.
