@@ -41,6 +41,6 @@ The investigation confirmed that the website was compromised through a brute for
 
 - [Security Incident Report Template](docs/security-incident-report-template.pdf)
 
-- [Tcpdump Traffic Log](docs/tcpdump-traffic-log.pdf)
+- [Tcpdump Traffic Log](docs/tcpdump-log.pdf)
 
 - [Supporting Materials](docs/supporting-materials.pdf)
